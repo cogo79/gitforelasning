@@ -15,7 +15,7 @@ namespace HelloWorld
             string name = Console.ReadLine();
             Console.WriteLine("Hello " + name + "! howsit going pal?? ;D");
             Console.ReadKey();
-            Behzad was here;
+            //Behzad was here;
         }
     }
 }
